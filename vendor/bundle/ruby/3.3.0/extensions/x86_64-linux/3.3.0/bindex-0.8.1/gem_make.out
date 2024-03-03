@@ -1,0 +1,18 @@
+current directory: /home/admin/sample_app/vendor/bundle/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+/home/admin/.rbenv/versions/3.3.0/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/admin/sample_app/vendor/bundle/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20240303-22560-im3b86 sitelibdir\=./.gem.20240303-22560-im3b86 clean
+
+current directory: /home/admin/sample_app/vendor/bundle/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20240303-22560-im3b86 sitelibdir\=./.gem.20240303-22560-im3b86
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.so
+
+current directory: /home/admin/sample_app/vendor/bundle/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20240303-22560-im3b86 sitelibdir\=./.gem.20240303-22560-im3b86 install
+/usr/bin/install -c -m 0755 cruby.so ./.gem.20240303-22560-im3b86/skiptrace/internal
+
+current directory: /home/admin/sample_app/vendor/bundle/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20240303-22560-im3b86 sitelibdir\=./.gem.20240303-22560-im3b86 clean
